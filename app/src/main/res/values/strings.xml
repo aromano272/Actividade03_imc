@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividade03_IMC</string>
+    <string name="tv_peso">Peso:</string>
+    <string name="hint_peso">Peso(kg)</string>
+    <string name="tv_altura">Altura:</string>
+    <string name="hint_altura">Altura(cm)</string>
+    <string name="btn_avaliar">Avaliar</string>
+</resources>
